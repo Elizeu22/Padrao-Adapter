@@ -1,0 +1,14 @@
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\obj\Debug\net8.0\Adapter-Padrao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\obj\Debug\net8.0\Adapter-Padrao.AssemblyInfoInputs.cache
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\obj\Debug\net8.0\Adapter-Padrao.AssemblyInfo.cs
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\obj\Debug\net8.0\Adapter-Padrao.csproj.CoreCompileInputs.cache
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\bin\Debug\net8.0\Adapter-Padrao.exe
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\bin\Debug\net8.0\Adapter-Padrao.deps.json
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\bin\Debug\net8.0\Adapter-Padrao.runtimeconfig.json
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\bin\Debug\net8.0\Adapter-Padrao.dll
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\bin\Debug\net8.0\Adapter-Padrao.pdb
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\obj\Debug\net8.0\Adapter-Padrao.dll
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\obj\Debug\net8.0\refint\Adapter-Padrao.dll
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\obj\Debug\net8.0\Adapter-Padrao.pdb
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\obj\Debug\net8.0\Adapter-Padrao.genruntimeconfig.cache
+C:\Padroes-Projetos-C#\Adapter\Exercicio-Adapter\Adapter-Padrao\obj\Debug\net8.0\ref\Adapter-Padrao.dll
